@@ -2,7 +2,7 @@ abiword abiword_48
 accessories-calculator calc galculator gnome-calculator speedcrunch categories:applications-mathematics
 accessories-character-map gnome-character-map gucharmap kcharselect
 accessories-dictionary gnome-dictionary stardict goldendict audiobook xfce4-dict
-accessories-text-editor gnome-word kedit mousepad text-editor xfce-edit
+accessories-text-editor gnome-word kedit mousepad text-editor xfce-edit gedit
 acroread AdobeReader AdobeReader8 AdobeReader9 AdobeReader10
 activity-log-manager   
 adobe-air AdobeAIR
@@ -28,7 +28,7 @@ computerjanitor bleachbit
 config-users kuser system-config-users susers system-users
 ccc_large 
 ccsm simple-ccsm
-cheese 
+cheese org.gnome.Cheese
 chromium-browser chromium
 chromium-browser2 
 clementine application-x-clementine 
@@ -254,7 +254,7 @@ shotwell
 shutter status:shutter-panel
 skype 
 spotify spotify-linux-48x48 spotify-linux-512x512
-softwarecenter 
+softwarecenter gnome-software
 softwarecenter-debian 
 softwarecenter-ubuntu 
 software-properties edit-urpm-sources gpk-repo pk-package-sources x-system-software-sources status:aptdaemon-update-cache status:aptdaemon-working
@@ -270,8 +270,8 @@ system-switch-java
 telepathy 
 terminator 
 Thunar thunar
-time-admin config-date preferences-system-time clocks
-tomboy knotes xpad status:tomboy-panel
+time-admin config-date preferences-system-time clocks org.gnome.clocks
+tomboy knotes xpad status:tomboy-panel org.gnome.bijiben
 totem kaffeine parole
 thunderbird mozilla-thunderbird thunderbird-icon
 transmission status:transmission-tray-icon
